@@ -6,6 +6,9 @@ contributor:
     alias: Kluga, Richard Paul
     gutenberg_agent_id: '56288'
     url: http://www.gutenberg.org/2009/agents/56288
+covers:
+- cover_type: archival
+  image_path: 71869-h/images/cover.jpg
 creator:
   author:
     agent_name: Wellen, Edward
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56435
     wikipedia: https://de.wikipedia.org/wiki/Edward_Wellen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71869#Note-for-a-time-capsule
 gutenberg_issued: '2023-10-13'
 identifiers:
   gutenberg: '71869'
